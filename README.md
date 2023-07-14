@@ -5,6 +5,8 @@ An overly complicated game of Tic Tac Toe built using HTML, CSS and JavaScript. 
 Will be updated to include a `Player VS AI` version, with an unbeatable AI based on the Minimax algorithm.
 
 
+
+
 TODO :
 
     > Start page JavaScript stuff.
