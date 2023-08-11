@@ -8,5 +8,4 @@ TODO :
     > Upgrade bot to use the Minimax algorithm.
 
 
-Check it out here : [baibhavjoshi.github.io/tic-tac-toe/
-](https://baibhavjoshi.github.io/tic-tac-toe/)https://baibhavjoshi.github.io/tic-tac-toe/
+Check it out here : [tic-tac-toe](https://baibhavjoshi.github.io/tic-tac-toe/)
