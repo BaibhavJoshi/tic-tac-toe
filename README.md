@@ -6,3 +6,6 @@ Will be updated to include a `Player VS Bot` version, with an unbeatable AI base
 TODO :
 
     > Upgrade bot to use the Minimax algorithm.
+
+
+Check it out here : baibhavjoshi.github.io/tic-tac-toe/
